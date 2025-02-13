@@ -1,0 +1,8 @@
+1. Roboflow를 이용한 YOLO 재학습 방법 (YOLOv10x까지 가능 확인)
+https://www.youtube.com/watch?v=RaY_9i6XOos
+
+2. 파이토치 기반 ResNet50 학습
+https://ingu627.github.io/code/ResNet50_pytorch/
+
+3. 파이토치 튜토리얼
+https://tutorials.pytorch.kr/
